@@ -1,0 +1,4 @@
+update_info:
+- ["F",{"message":"update some data!","code":0}]
+- ["M",{"message":"update some data!","code":0}]
+- ["x",{"message":"参数类型错误","code":3333}]
